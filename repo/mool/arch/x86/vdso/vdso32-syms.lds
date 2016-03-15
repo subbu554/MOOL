@@ -1,0 +1,9 @@
+VDSO32_NOTE_MASK = 0x02a4;
+VDSO32_SYSENTER_RETURN = 0x0c98;
+VDSO32_clock_gettime = 0x07a0;
+VDSO32_gettimeofday = 0x0520;
+VDSO32_rt_sigreturn = 0x0c80;
+VDSO32_sigreturn = 0x0c74;
+VDSO32_time = 0x0500;
+VDSO32_vsyscall = 0x0c88;
+VDSO32_vsyscall_eh_frame_size = 0x040;

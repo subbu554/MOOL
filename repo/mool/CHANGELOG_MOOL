@@ -1,0 +1,158 @@
+cpp3.9.10
+---------
+*merged with cpp3.7.9
+
+cpp3.7.9
+--------
+*merged with cpp3.7.8
+
+cpp3.7.8
+---------
+*merged with cpp3.7.7
+
+cpp3.7.7
+---------
+*merged with cpp3.7.6
+
+cpp3.7.6
+--------
+*merged with cpp3.7.5
+
+cpp3.7.5
+--------
+*merged with cpp3.7.4
+
+cpp3.7.4
+--------
+*merged with cpp3.7.3
+
+cpp3.7.3
+--------
+*merged with cpp3.7.2
+
+cpp3.7.2
+---------
+*merged with cpp3.7.1
+
+cpp3.7.1
+--------
+*merged with cpp3.7
+cpp3.7
+-------
+*merged with cpp3.6.11
+
+cpp3.6.11
+---------
+*merged with cpp3.6.10
+
+cpp3.6.10
+---------
+*merged with cpp3.6.9
+
+cpp3.6.9
+-------
+*merged with cpp3.6.8
+
+cpp3.6.8
+--------
+*merged with cpp3.6.7
+
+cpp3.6.7
+-------
+*merged with cpp3.6.6
+
+cpp3.6.6
+--------
+*merged with cpp3.6.5
+
+cpp3.6.5
+--------
+*merged with cpp3.6.4
+
+cpp3.6.4
+---------
+*merged with cpp3.6.3
+
+cpp3.6.3
+-------
+* Merged with cpp3.6.2
+
+cpp3.6.2
+-------
+* Merged with cpp3.6.1
+
+cpp3.6.1
+-------
+* Merged with cpp3.6.
+
+cpp3.6
+-------
+* include/linux/aio.h: line no 134: init_sync_kiocb function is replaced with the function defined in earlier version.
+* Patch applied for drivers/usb/serial/keyspan.c to resolve boot hang.
+
+cpp3.5.7
+---------
+.NOTPARALLEL Section added in Makefile
+Working .config added.
+In Makefile: 663: asm/mach-generic, /asm/mach-default is removed from NOSTDINCXX_FLAGS Section.
+unistd_32.h path changed in unistd.h
+Disabled CONFIG_AUDIT
+Enabled RCU_TRACE
+Disabled CONFIG_SLUB
+Enabled CONFIG_SLAB
+
+cpp3.5.6
+---------
+.NOTPARALLEL Section added in Makefile
+Working .config added.
+In Makefile: 663: asm/mach-generic, /asm/mach-default is removed from NOSTDINCXX_FLAGS Section.
+unistd_32.h path changed in unistd.h
+Disabled CONFIG_AUDIT
+Enabled RCU_TRACE
+Disabled CONFIG_SLUB
+Enabled CONFIG_SLAB
+
+cpp3.5.5
+---------
+.NOTPARALLEL Section added in Makefile
+Working .config added.
+In Makefile: 663: asm/mach-generic, /asm/mach-default is removed from NOSTDINCXX_FLAGS Section.
+unistd_32.h path changed in unistd.h
+Disabled CONFIG_AUDIT
+Enabled RCU_TRACE
+Disabled CONFIG_SLUB
+Enabled CONFIG_SLAB
+
+
+cpp3.5.4
+---------
+.NOTPARALLEL Section added in Makefile
+Working .config added.
+In Makefile: 663: asm/mach-generic, /asm/mach-default is removed from NOSTDINCXX_FLAGS Section.
+unistd_32.h path changed in unistd.h
+Disabled CONFIG_AUDIT
+Enabled RCU_TRACE
+Disabled CONFIG_SLUB
+Enabled CONFIG_SLAB
+
+cpp3.5.3
+---------
+.NOTPARALLEL Section added in Makefile
+Working .config added.
+In Makefile: 663: asm/mach-generic, /asm/mach-default is removed from NOSTDINCXX_FLAGS Section.
+unistd_32.h path changed in unistd.h
+Disabled CONFIG_AUDIT
+Enabled RCU_TRACE
+Disabled CONFIG_SLUB
+Enabled CONFIG_SLAB
+
+cpp3.5.2
+---------
+.NOTPARALLEL Section added in Makefile
+Working .config added.
+In Makefile: 663: asm/mach-generic, /asm/mach-default is removed from NOSTDINCXX_FLAGS Section.
+unistd_32.h path changed in unistd.h
+Disabled CONFIG_AUDIT
+Enabled RCU_TRACE
+Disabled CONFIG_SLUB
+Enabled CONFIG_SLAB
